@@ -8,7 +8,7 @@ In the program directory you need a folder called danger.
 
 In that folder you need an \_\_init\_\_.py and a danger.py
 
-in danget.py you need:
+in danger.py you need:
 
 username = YOURUSERNAME
 password = YOURPASSWORD
